@@ -1,0 +1,7 @@
+
+(function(compId){var _=null,y=true,n=false,x1='6.0.0',x3='6.0.0.400',x2='5.0.0',e8='${logo}',x4='rgba(0,0,0,0)',x7='rgba(255,255,255,1)',g='image',e9='${Banner_edge}',lf='left',o='opacity',i='none';var g6='Logo.png',g5='Banner_edge.png';var im='images/',aud='media/',vid='media/',js='js/',fonts={},opts={'gAudioPreloadPreference':'auto','gVideoPreloadPreference':'auto'},resources=[],scripts=[],symbols={"stage":{v:x1,mv:x2,b:x3,stf:i,cg:i,rI:n,cn:{dom:[{id:'Banner_edge',t:g,r:['0px','0px','7041px','477px','auto','auto'],f:[x4,im+g5,'0px','0px']},{id:'logo',t:g,r:['760px','53px','399px','371px','auto','auto'],o:'0',f:[x4,im+g6,'0px','0px']}],style:{'${Stage}':{isStage:true,r:['null','null','1920px','477px','auto','auto'],overflow:'hidden',f:[x7]}}},tt:{d:4675,a:y,data:[["eid31",o,0,0,"easeInOutQuad",e8,'0','0'],["eid9",o,2342,2333,"easeInOutQuad",e8,'0','1'],["eid32",lf,0,2008,"easeOutQuad",e9,'-7041px','0px']]}}};AdobeEdge.registerCompositionDefn(compId,symbols,fonts,scripts,resources,opts);})("EDGE-28317549");
+(function($,Edge,compId){var Composition=Edge.Composition,Symbol=Edge.Symbol;Edge.registerEventBinding(compId,function($){
+//Edge symbol: 'stage'
+(function(symbolName){})("stage");
+//Edge symbol end:'stage'
+})})(AdobeEdge.$,AdobeEdge,"EDGE-28317549");
